@@ -1,0 +1,1 @@
+web: gunicorn fleastore_bot.wsgi --log-file -
